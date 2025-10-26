@@ -35,30 +35,18 @@ requests \
 openai \
 flask \
 flask-cors \
-pandas \
 numpy \
-matplotlib \
 seaborn \
-scikit-learn \
 scipy \
 tqdm \
 rich \
 uvicorn \
 fastapi \
 PyYAML \
-pillow \
-opencv-python \
-duckduckgo-search \
 playwright \
-selenium \
 openpyxl \
 pyecharts \
-pdfplumber \
-PyMuPDF \
-reportlab \
-langdetect \
 spacy \
-nltk \
 pyinstaller \
 pytest
 
