@@ -37,7 +37,6 @@ flask \
 flask-cors \
 numpy \
 seaborn \
-scipy \
 tqdm \
 rich \
 uvicorn \
@@ -46,8 +45,6 @@ PyYAML \
 playwright \
 openpyxl \
 pyecharts \
-spacy \
-pyinstaller \
 pytest
 
 echo "⚙️ 安装 Playwright 浏览器依赖..."
