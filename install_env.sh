@@ -48,9 +48,6 @@ fastapi \
 PyYAML \
 pillow \
 opencv-python \
-torch torchvision torchaudio \
-transformers \
-sentence-transformers \
 duckduckgo-search \
 playwright \
 selenium \
